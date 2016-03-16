@@ -1,28 +1,23 @@
-== README
+== Pinterest Clone Readme ==
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The goal is to mimic the Pinterest website and will be written in Ruby on Rails
 
-Things you may want to cover:
+Gems:
 
-* Ruby version
+- Devise
+- Bootstrap-sass
+- Simple_form
+- Postgresql
+- HAML
+- Paperclip
 
-* System dependencies
+Update #2:
+- Devise has been installed
+- Associated the Pin Post with users
+- Flash message created for user in/out
+- Flash message created for post created/edit/destroy
 
-* Configuration
+Update #1:
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+- Testing HAML as it a good shorthand a clean way of writint code.
+- Models, Controller and Views created for Pin Post

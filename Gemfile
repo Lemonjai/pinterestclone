@@ -28,7 +28,8 @@ gem 'haml'
 gem 'bootstrap-sass'
 # Search within forums
 gem 'simple_form'
-
+# Add users
+gem 'devise'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
